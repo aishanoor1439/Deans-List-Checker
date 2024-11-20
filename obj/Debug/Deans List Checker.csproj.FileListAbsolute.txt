@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Deans List Checker\Deans List Checker\bin\Debug\Deans List Checker.exe.config
+C:\Users\DELL\source\repos\Deans List Checker\Deans List Checker\bin\Debug\Deans List Checker.exe
+C:\Users\DELL\source\repos\Deans List Checker\Deans List Checker\bin\Debug\Deans List Checker.pdb
+C:\Users\DELL\source\repos\Deans List Checker\Deans List Checker\obj\Debug\Deans List Checker.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Deans List Checker\Deans List Checker\obj\Debug\Deans List Checker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Deans List Checker\Deans List Checker\obj\Debug\Deans List Checker.exe
+C:\Users\DELL\source\repos\Deans List Checker\Deans List Checker\obj\Debug\Deans List Checker.pdb
